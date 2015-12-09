@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Str2Num", "Str2Num\Str2Num.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNumberOfWords", "GetNumberOfWords\GetNumberOfWords.csproj", "{B76C4674-999F-4591-9FD7-268CBF560F38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{69042D2F-8992-4F2E-93D6-1E14E7A43F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{B76C4674-999F-4591-9FD7-268CBF560F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B76C4674-999F-4591-9FD7-268CBF560F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B76C4674-999F-4591-9FD7-268CBF560F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69042D2F-8992-4F2E-93D6-1E14E7A43F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69042D2F-8992-4F2E-93D6-1E14E7A43F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69042D2F-8992-4F2E-93D6-1E14E7A43F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69042D2F-8992-4F2E-93D6-1E14E7A43F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
