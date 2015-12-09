@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\Frog\bin\Debug\Frog.exe.config
+D:\OneDrive\Code\CodeTests\Frog\bin\Debug\Frog.exe
+D:\OneDrive\Code\CodeTests\Frog\bin\Debug\Frog.pdb
+D:\OneDrive\Code\CodeTests\Frog\obj\Debug\Frog.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\Frog\obj\Debug\Frog.exe
+D:\OneDrive\Code\CodeTests\Frog\obj\Debug\Frog.pdb

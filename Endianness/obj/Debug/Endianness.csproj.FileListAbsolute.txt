@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\Endianness\bin\Debug\Endianness.exe.config
+D:\OneDrive\Code\CodeTests\Endianness\obj\Debug\Endianness.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\Endianness\bin\Debug\Endianness.exe
+D:\OneDrive\Code\CodeTests\Endianness\bin\Debug\Endianness.pdb
+D:\OneDrive\Code\CodeTests\Endianness\obj\Debug\Endianness.exe
+D:\OneDrive\Code\CodeTests\Endianness\obj\Debug\Endianness.pdb

@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\RegexReplace\bin\Debug\RegexReplace.exe.config
+D:\OneDrive\Code\CodeTests\RegexReplace\obj\Debug\RegexReplace.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\RegexReplace\bin\Debug\RegexReplace.exe
+D:\OneDrive\Code\CodeTests\RegexReplace\bin\Debug\RegexReplace.pdb
+D:\OneDrive\Code\CodeTests\RegexReplace\obj\Debug\RegexReplace.exe
+D:\OneDrive\Code\CodeTests\RegexReplace\obj\Debug\RegexReplace.pdb

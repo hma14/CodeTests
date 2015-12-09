@@ -1,0 +1,6 @@
+F:\Visual_Studio_2015_Apps\CodeTests\Str2Num\bin\Debug\Str2Num.exe.config
+F:\Visual_Studio_2015_Apps\CodeTests\Str2Num\bin\Debug\Str2Num.exe
+F:\Visual_Studio_2015_Apps\CodeTests\Str2Num\bin\Debug\Str2Num.pdb
+F:\Visual_Studio_2015_Apps\CodeTests\Str2Num\obj\Debug\Str2Num.csprojResolveAssemblyReference.cache
+F:\Visual_Studio_2015_Apps\CodeTests\Str2Num\obj\Debug\Str2Num.exe
+F:\Visual_Studio_2015_Apps\CodeTests\Str2Num\obj\Debug\Str2Num.pdb

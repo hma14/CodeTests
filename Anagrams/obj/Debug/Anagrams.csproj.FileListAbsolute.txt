@@ -1,0 +1,9 @@
+D:\OneDrive\Code\CodeTests\Anagrams\bin\Debug\Anagrams.exe.config
+D:\OneDrive\Code\CodeTests\Anagrams\bin\Debug\Anagrams.exe
+D:\OneDrive\Code\CodeTests\Anagrams\bin\Debug\Anagrams.pdb
+D:\OneDrive\Code\CodeTests\Anagrams\obj\Debug\Anagrams.exe
+D:\OneDrive\Code\CodeTests\Anagrams\obj\Debug\Anagrams.pdb
+D:\OneDrive\Code\CodeTests\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache
+F:\Visual_Studio_2015_Apps\CodeTests\Anagrams\bin\Debug\Anagrams.exe.config
+F:\Visual_Studio_2015_Apps\CodeTests\Anagrams\obj\Debug\Anagrams.exe
+F:\Visual_Studio_2015_Apps\CodeTests\Anagrams\obj\Debug\Anagrams.pdb

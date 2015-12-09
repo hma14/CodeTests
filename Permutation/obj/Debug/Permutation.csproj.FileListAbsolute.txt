@@ -1,0 +1,5 @@
+D:\OneDrive\Code\CodeTests\Permutation\bin\Debug\Permutation.exe.config
+D:\OneDrive\Code\CodeTests\Permutation\bin\Debug\Permutation.exe
+D:\OneDrive\Code\CodeTests\Permutation\bin\Debug\Permutation.pdb
+D:\OneDrive\Code\CodeTests\Permutation\obj\Debug\Permutation.exe
+D:\OneDrive\Code\CodeTests\Permutation\obj\Debug\Permutation.pdb

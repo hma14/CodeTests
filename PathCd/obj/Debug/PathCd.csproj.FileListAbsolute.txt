@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\PathCd\bin\Debug\PathCd.exe.config
+D:\OneDrive\Code\CodeTests\PathCd\bin\Debug\PathCd.exe
+D:\OneDrive\Code\CodeTests\PathCd\bin\Debug\PathCd.pdb
+D:\OneDrive\Code\CodeTests\PathCd\obj\Debug\PathCd.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\PathCd\obj\Debug\PathCd.exe
+D:\OneDrive\Code\CodeTests\PathCd\obj\Debug\PathCd.pdb

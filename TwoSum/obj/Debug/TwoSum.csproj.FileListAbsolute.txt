@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\TwoSum\obj\Debug\TwoSum.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\TwoSum\bin\Debug\TwoSum.exe.config
+D:\OneDrive\Code\CodeTests\TwoSum\bin\Debug\TwoSum.exe
+D:\OneDrive\Code\CodeTests\TwoSum\bin\Debug\TwoSum.pdb
+D:\OneDrive\Code\CodeTests\TwoSum\obj\Debug\TwoSum.exe
+D:\OneDrive\Code\CodeTests\TwoSum\obj\Debug\TwoSum.pdb

@@ -1,0 +1,12 @@
+D:\OneDrive\Code\CodeTests\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+D:\OneDrive\Code\CodeTests\ReverseSentence\bin\Debug\ReverseSentence.exe
+D:\OneDrive\Code\CodeTests\ReverseSentence\bin\Debug\ReverseSentence.pdb
+D:\OneDrive\Code\CodeTests\ReverseSentence\obj\Debug\ReverseSentence.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\ReverseSentence\obj\Debug\ReverseSentence.exe
+D:\OneDrive\Code\CodeTests\ReverseSentence\obj\Debug\ReverseSentence.pdb
+F:\Visual_Studio_2015_Apps\CodeTests\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+F:\Visual_Studio_2015_Apps\CodeTests\ReverseSentence\obj\Debug\ReverseSentence.exe
+F:\Visual_Studio_2015_Apps\CodeTests\ReverseSentence\obj\Debug\ReverseSentence.pdb
+F:\Visual_Studio_2015_Apps\CodeTests\ReverseSentence\bin\Debug\ReverseSentence.exe
+F:\Visual_Studio_2015_Apps\CodeTests\ReverseSentence\bin\Debug\ReverseSentence.pdb
+F:\Visual_Studio_2015_Apps\CodeTests\ReverseSentence\obj\Debug\ReverseSentence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\Visual_Studio_2015_Apps\CodeTests\GetNumberOfWords\bin\Debug\GetNumberOfWords.exe.config
+F:\Visual_Studio_2015_Apps\CodeTests\GetNumberOfWords\bin\Debug\GetNumberOfWords.exe
+F:\Visual_Studio_2015_Apps\CodeTests\GetNumberOfWords\bin\Debug\GetNumberOfWords.pdb
+F:\Visual_Studio_2015_Apps\CodeTests\GetNumberOfWords\obj\Debug\GetNumberOfWords.csprojResolveAssemblyReference.cache
+F:\Visual_Studio_2015_Apps\CodeTests\GetNumberOfWords\obj\Debug\GetNumberOfWords.exe
+F:\Visual_Studio_2015_Apps\CodeTests\GetNumberOfWords\obj\Debug\GetNumberOfWords.pdb

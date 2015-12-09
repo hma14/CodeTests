@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\Run\bin\Debug\Run.exe.config
+D:\OneDrive\Code\CodeTests\Run\bin\Debug\Run.exe
+D:\OneDrive\Code\CodeTests\Run\bin\Debug\Run.pdb
+D:\OneDrive\Code\CodeTests\Run\obj\Debug\Run.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\Run\obj\Debug\Run.exe
+D:\OneDrive\Code\CodeTests\Run\obj\Debug\Run.pdb

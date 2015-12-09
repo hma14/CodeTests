@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\ConvertHexToIP\bin\Debug\ConvertHexToIP.exe.config
+D:\OneDrive\Code\CodeTests\ConvertHexToIP\bin\Debug\ConvertHexToIP.exe
+D:\OneDrive\Code\CodeTests\ConvertHexToIP\bin\Debug\ConvertHexToIP.pdb
+D:\OneDrive\Code\CodeTests\ConvertHexToIP\obj\Debug\ConvertHexToIP.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\ConvertHexToIP\obj\Debug\ConvertHexToIP.exe
+D:\OneDrive\Code\CodeTests\ConvertHexToIP\obj\Debug\ConvertHexToIP.pdb

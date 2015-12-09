@@ -1,0 +1,6 @@
+D:\OneDrive\Code\CodeTests\RegexExample\bin\Debug\RegexExample.exe.config
+D:\OneDrive\Code\CodeTests\RegexExample\bin\Debug\RegexExample.exe
+D:\OneDrive\Code\CodeTests\RegexExample\bin\Debug\RegexExample.pdb
+D:\OneDrive\Code\CodeTests\RegexExample\obj\Debug\RegexExample.csprojResolveAssemblyReference.cache
+D:\OneDrive\Code\CodeTests\RegexExample\obj\Debug\RegexExample.exe
+D:\OneDrive\Code\CodeTests\RegexExample\obj\Debug\RegexExample.pdb
